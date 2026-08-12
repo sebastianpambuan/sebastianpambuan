@@ -7,7 +7,7 @@
     skills and create a professional portfolio.
 </p>
 
-<h3>👨‍💻 About me:</h3>
+<h2>👨‍💻 About me</h2>
 <ul>
     <li>🎓 BS Information Technology graduate</li>
     <li>💻 Full Stack Developer Intern experience</li>
@@ -17,7 +17,7 @@
     <li>📫 Contact me: sebastianpambuan@gmail.com</li>
 </ul>
 
-<h3>🛠️ Tech Stack</h3>
+<h2>🛠️ Tech Stack</h2>
 <ul>
     <li>
         <h4>Languages</h4>
@@ -58,23 +58,42 @@
     </li>
 </ul>
 
-<h3>💼 Experience</h3>
+<h2>💼 Experience</h2>
+<b>MIS Department - Transfer It</b><br>
+<i>February 2026 - May 2026</i>
+<p>
+    Worked as a Full Stack Developer Intern supporting the development and maintenance of internal business applications. 
+    I worked with PHP, CodeIgniter 3, MySQL, JavaScript, HTML, CSS, and cPanel while contributing to different modules of 
+    the company's merchandising and purchasing systems.
+</p>
+
+<h2>🚀 Featured Projects</h2>
+<b>Smart Bottle Disposal and Charging Reward System</b><br>
+<i>Capstone Project | System Developer</i>
+<p>
+    A smart bottle disposal and charging reward system developed as a university capstone project. The system combines 
+    software and hardware components to encourage proper bottle disposal while providing a charging/reward mechanism.
+</p>
+
+<h2>🌱 Currently Learning</h2>
 <ul>
-    <li>Improving my previous school projects</li>
-    <li>Building a professional GitHub portfolio</li>
-    <li>Strengthening my skills in Git, Python, C/C++, and Java</li>
+    <li>Git and GitHub workflows</li>
+    <li>Improving PHP and CodeIgniter development</li>
+    <li>Strengthening Python, Java, and C/C++ fundamentals</li>
+    <li>Building and documenting projects for my developer portfolio</li>
+    <li>Learning more about software development best practices</li>
 </ul>
 
-<h3>Currently working on:</h3>
+<h2>📫 Contact</h2>
 <ul>
-    <li>Improving my previous school projects</li>
-    <li>Building a professional GitHub portfolio</li>
-    <li>Strengthening my skills in Git, Python, C/C++, and Java</li>
+    <li>Email: sebastianpambuan@gmail.com</li>
 </ul>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img
-            src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40" /> </a> <a
+<p align="left"> 
+    <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img
+            src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40" /> </a>
+    <a
         href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
             alt="bootstrap" width="40" height="40" /> </a> <a href="https://www.cprogramming.com/" target="_blank"
@@ -114,4 +133,5 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php"
             width="40" height="40" /> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-            alt="python" width="40" height="40" /> </a> </p>
+            alt="python" width="40" height="40" /> </a> 
+</p>

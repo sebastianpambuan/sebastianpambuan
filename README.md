@@ -7,7 +7,7 @@
     skills and create a professional portfolio.
 </p>
 
-<h3>👨‍💻 About me:</h3>
+<h2>👨‍💻 About me:</h2>
 <ul>
     <li>🎓 BS Information Technology graduate</li>
     <li>💻 Full Stack Developer Intern experience</li>
@@ -17,7 +17,7 @@
     <li>📫 Contact me: sebastianpambuan@gmail.com</li>
 </ul>
 
-<h3>🛠️ Tech Stack</h3>
+<h2>🛠️ Tech Stack</h2>
 <ul>
     <li>
         <h4>Languages</h4>
@@ -58,12 +58,14 @@
     </li>
 </ul>
 
-<h3>💼 Experience</h3>
-<ul>
-    <li>Improving my previous school projects</li>
-    <li>Building a professional GitHub portfolio</li>
-    <li>Strengthening my skills in Git, Python, C/C++, and Java</li>
-</ul>
+<h2>💼 Experience</h2>
+MIS Department - Transfer It
+February 2026 - May 2026
+<p>
+    Worked as a Full Stack Developer Intern supporting the development and maintenance of internal business applications. 
+    I worked with PHP, CodeIgniter 3, MySQL, JavaScript, HTML, CSS, and cPanel while contributing to different modules of 
+    the company's merchandising and purchasing systems.
+</p>
 
 <h3>Currently working on:</h3>
 <ul>

@@ -7,7 +7,7 @@
     skills and create a professional portfolio.
 </p>
 
-<h2>👨‍💻 About me:</h2>
+<h2>👨‍💻 About me</h2>
 <ul>
     <li>🎓 BS Information Technology graduate</li>
     <li>💻 Full Stack Developer Intern experience</li>
@@ -59,20 +59,36 @@
 </ul>
 
 <h2>💼 Experience</h2>
-MIS Department - Transfer It
-February 2026 - May 2026
+<b>MIS Department - Transfer It</b><br>
+<i>February 2026 - May 2026</i>
 <p>
     Worked as a Full Stack Developer Intern supporting the development and maintenance of internal business applications. 
     I worked with PHP, CodeIgniter 3, MySQL, JavaScript, HTML, CSS, and cPanel while contributing to different modules of 
     the company's merchandising and purchasing systems.
 </p>
 
-<h3>Currently working on:</h3>
+<h2>🚀 Featured Projects</h2>
+<b>Smart Bottle Disposal and Charging Reward System</b><br>
+<i>Capstone Project | System Developer</i>
+<p>
+    A smart bottle disposal and charging reward system developed as a university capstone project. The system combines 
+    software and hardware components to encourage proper bottle disposal while providing a charging/reward mechanism.
+</p>
+
+<h2>🌱 Currently Learning</h2>
 <ul>
-    <li>Improving my previous school projects</li>
-    <li>Building a professional GitHub portfolio</li>
-    <li>Strengthening my skills in Git, Python, C/C++, and Java</li>
+    <li>Git and GitHub workflows</li>
+    <li>Improving PHP and CodeIgniter development</li>
+    <li>Strengthening Python, Java, and C/C++ fundamentals</li>
+    <li>Building and documenting projects for my developer portfolio</li>
+    <li>Learning more about software development best practices</li>
 </ul>
+
+<h2>📫 Contact</h2>
+<ul>
+    <li>Email: sebastianpambuan@gmail.com</li>
+</ul>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img

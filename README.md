@@ -1,14 +1,20 @@
-<h1 align="center">Portfolio currently in Progress</h1>
-<h1 align="center">Hi 👋, I'm Seb</h1>
-<h3 align="center">A passionate frontend developer from the Philippines</h3>
+<!-- Intro -->
+<h1 align="center">Hi, I'm Sebastian</h1>
+<h3 align="center">Aspiring Software Developer from the Philippines</h3>
 
-I’m currently working on reworking my past school projects
-I’m currently learning **Git**, and relearning **python, c/c++, java**
-How to reach me **sebastianpambuan@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p>
+BS Information Technology graduate with internship experience in full-stack web development. Currently building and 
+improving projects using PHP, CodeIgniter, MySQL, JavaScript, and other technologies while continuing to strengthen my 
+software development skills.
 </p>
+
+<!-- Current doing -->
+<h3>Currently working on:</h3>
+<ul>
+<li>Improving my previous school projects</li>
+<li>Building a professional GitHub portfolio</li>
+<li>Strengthening my skills in Git, Python, C/C++, and Java</li>
+</ul>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img

@@ -16,25 +16,9 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Seb</h1>
 <h3 align="center">A passionate frontend developer from the Philippines</h3>
 
-- 🔭 I’m currently working on [project name](link)
-
-- 🌱 I’m currently learning **Frameworks, courses etc.**
-
-- 👯 I’m looking to collaborate on [project name](link)
-
-- 🤝 I’m looking for help with [project name](link)
-
-- 👨‍💻 All of my projects are available at [link](link)
-
-- 📝 I regularly write articles on [link](link)
-
-- 💬 Ask me about **react, vue and gsap**
-
-- 📫 How to reach me **gmail.com**
-
-- 📄 Know about my experiences [link](link)
-
-- ⚡ Fun fact **trivia**
+- 🔭 I’m currently working on my Git profile while reworking on my past school projects
+- 🌱 I’m currently learning Git, and relearning python, c/c++, java
+- 📫 How to reach me **sebastianpambuan@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

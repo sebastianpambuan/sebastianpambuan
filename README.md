@@ -14,7 +14,6 @@
     <li>🌱 Currently improving my software development and Git skills</li>
     <li>🔧 Interested in web development, software development, and IT-related roles</li>
     <li>📍 Based in the Philippines</li>
-    <li>📫 Contact me: sebastianpambuan@gmail.com</li>
 </ul>
 
 <h2>🛠️ Tech Stack</h2>

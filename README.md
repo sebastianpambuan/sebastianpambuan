@@ -19,89 +19,40 @@
 <h2>🛠️ Tech Stack</h2>
 <ul>
     <li>
-        <h4>Programming Languages</h4>
+        <h4>Programming</h4>
         <p>
-            <a href="https://www.php.net" target="_blank" rel="noreferrer" style="text-decoration: none;">
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40" /></a>
-            <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" style="text-decoration: none;">
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" /></a>
-            <a href="https://www.python.org" target="_blank" rel="noreferrer" style="text-decoration: none;">
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" /></a>
-            <a href="https://www.java.com" target="_blank" rel="noreferrer" style="text-decoration: none;">
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" /></a>
-            <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer" style="text-decoration: none;">
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" /></a>
-            <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer" style="text-decoration: none;">
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" /></a>
-            <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer" style="text-decoration: none;">
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40" /></a>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="40" height="40" /> 
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" /> 
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40" /> 
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" height="40" /> 
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="40" height="40" /> 
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="40" height="40" /> 
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40" /> 
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40" />
         </p>
     </li>
     <li>
-        <h4>Frontend Development</h4>
+        <h4>Framework & Runtime</h4>
         <p>
-            <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" style="text-decoration: none;">
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" /></a>
-            <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" style="text-decoration: none;">
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" /></a>
-            <a href="https://getbootstrap.com" target="_blank" rel="noreferrer" style="text-decoration: none;">
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" /></a>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/codeigniter/codeigniter-plain-wordmark.svg" width="40" height="40" /> 
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" />
         </p>
     </li>
     <li>
-        <h4>Backend Development</h4>
+        <h4>Database</h4>
         <p>
-            <a href="https://nodejs.org" target="_blank" rel="noreferrer" style="text-decoration: none;">
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" /></a>
-            <a href="https://expressjs.com" target="_blank" rel="noreferrer" style="text-decoration: none;">
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40" /></a>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" /> 
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="40" height="40" />
         </p>
     </li>
     <li>
-        <h4>Databases</h4>
+        <h4>Tools & Platforms</h4>
         <p>
-            <a href="https://www.mysql.com/" target="_blank" rel="noreferrer" style="text-decoration: none;">
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" /></a>
-            <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer" style="text-decoration: none;">
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" /></a>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40" height="40" /> 
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cpanel/cpanel-original.svg" width="40" height="40" />
         </p>
-    </li>
-    <li>
-        <h4>Framework</h4>
-        <p>
-            <a href="https://codeigniter.com" target="_blank" rel="noreferrer" style="text-decoration: none;">
-                <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40" /></a>
-        </p>
-    </li>
-    <li>
-        <h4>Software</h4>
-        <p>
-            <a href="https://www.figma.com/" target="_blank" rel="noreferrer" style="text-decoration: none;">
-                <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" /></a>
-        </p>
-    </li>
-    <li>
-        <h4>Other</h4>
-        <p>Git | GitHub | VS Code | cPanel | Arduino</p>
     </li>
 </ul>
-
-<h2>💼 Experience</h2>
-<b>MIS Department - Transfer It</b><br>
-<i>February 2026 - May 2026</i>
-<p>
-    Worked as a Full Stack Developer Intern supporting the development and maintenance of internal business applications. 
-    I worked with PHP, CodeIgniter 3, MySQL, JavaScript, HTML, CSS, and cPanel while contributing to different modules of 
-    the company's merchandising and purchasing systems.
-</p>
-
-<h2>🚀 Featured Projects</h2>
-<b>Smart Bottle Disposal and Charging Reward System</b><br>
-<i>Capstone Project | System Developer</i>
-<p>
-    A smart bottle disposal and charging reward system developed as a university capstone project. The system combines 
-    software and hardware components to encourage proper bottle disposal while providing a charging/reward mechanism.
-</p>
 
 <h2>🌱 Currently Learning</h2>
 <ul>
@@ -112,7 +63,7 @@
     <li>Learning more about software development best practices</li>
 </ul>
 
-<h2>📫 Contact</h2>
+<h2>📫 Contact Me</h2>
 <ul>
     <li>Email: sebastianpambuan@gmail.com</li>
 </ul>

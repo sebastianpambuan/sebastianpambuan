@@ -1,3 +1,5 @@
+<!-- Hi, welcome -->
+
 <h1 align="center">Hi, I'm Sebastian</h1>
 <h3 align="center">Aspiring Software Developer from the Philippines</h3>
 
@@ -7,6 +9,8 @@
     skills and create a professional portfolio.
 </p>
 
+<!-- This section is about me -->
+
 <h2>👨‍💻 About me</h2>
 <ul>
     <li>🎓 BS Information Technology graduate</li>
@@ -15,6 +19,8 @@
     <li>🔧 Interested in web development, software development, and IT-related roles</li>
     <li>📍 Based in the Philippines</li>
 </ul>
+
+<!-- This section is my technical info -->
 
 <h2>🛠️ Tech Stack</h2>
 <ul>
@@ -54,6 +60,8 @@
     </li>
 </ul>
 
+<!-- This section is what I'm doing right now-->
+
 <h2>🌱 Currently Learning</h2>
 <ul>
     <li>Git and GitHub workflows</li>
@@ -62,6 +70,8 @@
     <li>Building and documenting projects for my developer portfolio</li>
     <li>Learning more about software development best practices</li>
 </ul>
+
+<!-- This section is where you can contact me -->
 
 <h2>📫 Contact Me</h2>
 <ul>

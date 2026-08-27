@@ -1,7 +1,7 @@
 <!-- Hi, welcome -->
 
 <h1 align="center">Hi, I'm Sebastian</h1>
-<h3 align="center">Aspiring Software Developer from the Philippines</h3>
+<h3 align="center">Aspiring Web Developer from the Philippines</h3>
 
 <p>
     I'm a BS Information Technology graduate with internship experience in full-stack web development. I have worked with PHP, 
@@ -68,7 +68,7 @@
     <li>Improving PHP and CodeIgniter development</li>
     <li>Strengthening Python, Java, and C/C++ fundamentals</li>
     <li>Building and documenting projects for my developer portfolio</li>
-    <li>Learning more about software development best practices</li>
+    <li>Learning more about web development best practices</li>
 </ul>
 
 <!-- This section is where you can contact me -->
